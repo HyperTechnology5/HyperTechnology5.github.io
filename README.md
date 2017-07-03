@@ -1,10 +1,5 @@
-# personal-website-template
+# HyperTechnology5
 
-A simple one page template suited for personal and portfolio pages. 
+Main Home Page at [github.io](http://hypertechnology5.github.io/)
 
-## Usage
 
-- Fork this repository
-- Rename it to `<your-github-username>.github.io`
-- Edit `index.html` to add your personal details
-- Goto `http://<your-github-username.github.io` and website will be visible there
